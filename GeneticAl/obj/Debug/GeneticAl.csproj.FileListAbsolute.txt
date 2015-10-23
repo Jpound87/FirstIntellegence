@@ -1,0 +1,19 @@
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+C:\Users\y13616\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+C:\Users\y13616\Documents\Visual Studio 2013\Projects\GeneticAl\GeneticAl\bin\Debug\GeneticAl.exe.config
+C:\Users\y13616\Documents\Visual Studio 2013\Projects\GeneticAl\GeneticAl\bin\Debug\GeneticAl.exe
+C:\Users\y13616\Documents\Visual Studio 2013\Projects\GeneticAl\GeneticAl\bin\Debug\GeneticAl.pdb
+C:\Users\y13616\Documents\Visual Studio 2013\Projects\GeneticAl\GeneticAl\obj\Debug\GeneticAl.exe
+C:\Users\y13616\Documents\Visual Studio 2013\Projects\GeneticAl\GeneticAl\obj\Debug\GeneticAl.pdb
+C:\Users\y13616\Documents\Visual Studio 2013\Projects\GeneticAl\GeneticAl\obj\Debug\GeneticAl.csprojResolveAssemblyReference.cache
+C:\Users\y13616\Downloads\First Intellegence\GeneticAl\GeneticAl\bin\Debug\GeneticAl.exe.config
+C:\Users\y13616\Downloads\First Intellegence\GeneticAl\GeneticAl\obj\Debug\GeneticAl.exe
+C:\Users\y13616\Downloads\First Intellegence\GeneticAl\GeneticAl\obj\Debug\GeneticAl.pdb
+C:\Users\y13616\Downloads\First Intellegence\GeneticAl\GeneticAl\bin\Debug\GeneticAl.exe
+C:\Users\y13616\Downloads\First Intellegence\GeneticAl\GeneticAl\bin\Debug\GeneticAl.pdb
+C:\Users\y13616\Downloads\First Intellegence\GeneticAl\GeneticAl\obj\Debug\GeneticAl.csprojResolveAssemblyReference.cache

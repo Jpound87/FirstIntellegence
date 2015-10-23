@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Thinker.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACABAABAAAgACAAAAAAAAAAAAAAAAAEAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thinker.NaturalSelection">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAIEogADAAAAAAAIAEEAoIAoAAAABEABgAQAI=</HashCode>
+      <FileName>NaturalSelection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Thinker.NeuralNet">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwgAggAAAAAAYAAAgAAAACAAAEBAAIEAAAAEGAABEA=</HashCode>
+      <FileName>Breed.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Thinker.NeuralFactor">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEQAAAAAAAABAAAAAAAAASAAgAgAAAAAAAAAAAA=</HashCode>
+      <FileName>NeuralFactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thinker.Neuron">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAAAQAAAAAIAAABEAEBAEIQAAAEAAAAAQA=</HashCode>
+      <FileName>Neuron.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Thinker.DNA" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAAAAgQBAAAMAAAAAIAAAACAAAAAAAAAgAAAI=</HashCode>
+      <FileName>DNA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Thinker.NeuralLayer">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGIAAEAAAAIAABAQCAAABAQAAAEBAAIACAAAAABQIAA=</HashCode>
+      <FileName>NeuralLayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Thinker.IntellegentDesign">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAACgAAAAAAEhAAACCAEQABQIAAAIEAAEACA=</HashCode>
+      <FileName>IntellegentDesign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Thinker.INeuronSignal">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INSignal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Thinker.INeuronReceptor">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INReceptor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Thinker.INeuron">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAAAQAAAAAAAAAAAAEBAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>INeuron.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Thinker.INeuralLayer">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEBAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>INeuralLayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Thinker.INeuralNet">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAEBAAIAAAAAACAABEA=</HashCode>
+      <FileName>INeuralNet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
